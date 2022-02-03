@@ -19,5 +19,5 @@ This will allow the user to check if it has been mounted. To run the driver, go 
 Execute "./proj3_driver" to begin playing the game.
 
 ## Authors
-Name: Alex Tran
-Email: alextran4321@gmail.com
+* Name: Alex Tran 
+* Email: alextran4321@gmail.com
