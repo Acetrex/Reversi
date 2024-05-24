@@ -9,7 +9,7 @@ Reversi game written in c where user can play against a bot
 
 ### Prerequisites
 * C (lanuage) installed to run program
-* Virtual Machinem, preferably linux (Debian)
+* Virtual Machine, preferably linux (Debian)
 * Know rules of Reversi
 
 ### Executing Program
